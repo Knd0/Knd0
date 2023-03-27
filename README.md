@@ -24,6 +24,12 @@
     - 📝[Resume](https://github.com/Knd0/Knd0/blob/main/CV%20INGLES.pdf)</br>
 
  
+---
+**Personal projects** 📝 </br></br>
+<ul>
+ <li>[Esto](https://pf-henryss.vercel.app/)</li>
+</ul>
+<br />
 
 ---
 **Contact with me** 📝 </br></br>
