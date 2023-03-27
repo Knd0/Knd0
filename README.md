@@ -25,9 +25,9 @@
 
  
 ---
-**Personal projects** 📝 </br></br>
+**Personal projects** 📚 </br></br>
 <ul>
- <li>[Esto](https://pf-henryss.vercel.app/)</li>
+ <li>📈📊🚗 https://pf-henryss.vercel.app/</li>
 </ul>
 <br />
 
