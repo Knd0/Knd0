@@ -25,7 +25,7 @@
 
  
 ---
-**Personal projects** 📚 </br></br>
+**Personal Projects** 📚 </br></br>
 <ul>
  <li>📈📊🚗 https://pf-henryss.vercel.app/</li>
 </ul>
