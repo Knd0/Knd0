@@ -27,7 +27,7 @@
 ---
 **Personal Projects** 📚 </br></br>
 <ul>
- <li>📈📊🚗 https://pf-henryss.vercel.app/</li>
+ <li><a href="https://pf-henryss.vercel.app/">📈🚗 Cars E-Commerce</a></li>
 </ul>
 <br />
 
@@ -55,12 +55,6 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&link=https://github.com/Knd0)](https://github.com/Knd0)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Knd0)](https://github.com/Knd0)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/Knd0)](https://github.com/Knd0)
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"><br> 
-</div> 
 
 ---
 
