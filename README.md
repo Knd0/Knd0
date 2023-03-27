@@ -21,7 +21,7 @@
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
     - ⚡ Fun fact: Video-games, anime, movies and a good beer .</br>
-    - 📝[Resume](https://github.com/Knd0/FrancoDeIriondo/blob/main/CV%20INGLES.pdf)</br>
+    - 📝[Resume](https://github.com/Knd0/Knd0/blob/main/CV%20INGLES.pdf)</br>
 
  
 
